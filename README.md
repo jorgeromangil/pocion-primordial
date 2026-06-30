@@ -120,7 +120,7 @@ To build and run the game, you need:
 
 ---
 
-## Authors and Credits 👥
+## Authors and Credits
 
 This project was developed as part of the **Fundamentos de los Videojuegos** course for the **Grado en Ingeniería Multimedia** at the **Escuela Politécnica Superior, Universidad de Alicante**.
 
