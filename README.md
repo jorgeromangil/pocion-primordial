@@ -128,3 +128,7 @@ This project was developed as part of the **Fundamentos de los Videojuegos** cou
 * **Álvaro Aldea** - [@aag166](https://github.com/aag166)
 * **Jorge Román** - [@jorgeromangil](https://github.com/jorgeromangil)
 * **Claudia Garias** - [@cga112](https://github.com/cga112)
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
