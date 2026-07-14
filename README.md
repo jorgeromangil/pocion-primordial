@@ -122,7 +122,7 @@ To build and run the game, you need:
 
 ## Authors and Credits
 
-This project was developed as part of the **Fundamentos de los Videojuegos** course for the **Grado en Ingeniería Multimedia** at the **Escuela Politécnica Superior, Universidad de Alicante**.
+Project developed for the Fundamentals of Video Games course (Multimedia Engineering Degree) at the University of Alicante (EPS).
 
 * **Álvaro Sánchez** - [@asp161](https://github.com/asp161)
 * **Álvaro Aldea** - [@aag166](https://github.com/aag166)
